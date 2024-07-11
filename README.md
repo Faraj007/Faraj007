@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faraj007
+- 👋 Hi, I’m @Tachoo
 - 👀 I’m interested in UI and front end developer
 - 🌱 I’m currently learning HTML,CSS, and Java Script
 - 💞️ I’m looking to collaborate on ...
